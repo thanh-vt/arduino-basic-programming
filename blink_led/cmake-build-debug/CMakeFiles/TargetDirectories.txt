@@ -1,0 +1,8 @@
+F:/Programming/C/arduino-basics/blink_led/cmake-build-debug/CMakeFiles/blink_led-upload.dir
+F:/Programming/C/arduino-basics/blink_led/cmake-build-debug/CMakeFiles/uno_CORE.dir
+F:/Programming/C/arduino-basics/blink_led/cmake-build-debug/CMakeFiles/blink_led-burn.dir
+F:/Programming/C/arduino-basics/blink_led/cmake-build-debug/CMakeFiles/blink_led-size.dir
+F:/Programming/C/arduino-basics/blink_led/cmake-build-debug/CMakeFiles/blink_led.dir
+F:/Programming/C/arduino-basics/blink_led/cmake-build-debug/CMakeFiles/upload.dir
+F:/Programming/C/arduino-basics/blink_led/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Programming/C/arduino-basics/blink_led/cmake-build-debug/CMakeFiles/rebuild_cache.dir

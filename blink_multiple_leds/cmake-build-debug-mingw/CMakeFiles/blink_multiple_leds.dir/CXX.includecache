@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Programming/C/arduino-basics/blink_multiple_leds/cmake-build-debug-mingw/blink_multiple_leds_blink_multiple_leds.ino.cpp
+Arduino.h
+-
+Arduino.h
+F:/Programming/C/arduino-basics/blink_multiple_leds/cmake-build-debug-mingw/Arduino.h
+

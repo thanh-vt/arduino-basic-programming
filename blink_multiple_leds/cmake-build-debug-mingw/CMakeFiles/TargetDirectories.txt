@@ -1,0 +1,8 @@
+F:/Programming/C/arduino-basics/blink_multiple_leds/cmake-build-debug-mingw/CMakeFiles/uno_CORE.dir
+F:/Programming/C/arduino-basics/blink_multiple_leds/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
+F:/Programming/C/arduino-basics/blink_multiple_leds/cmake-build-debug-mingw/CMakeFiles/blink_multiple_leds-burn.dir
+F:/Programming/C/arduino-basics/blink_multiple_leds/cmake-build-debug-mingw/CMakeFiles/blink_multiple_leds.dir
+F:/Programming/C/arduino-basics/blink_multiple_leds/cmake-build-debug-mingw/CMakeFiles/blink_multiple_leds-upload.dir
+F:/Programming/C/arduino-basics/blink_multiple_leds/cmake-build-debug-mingw/CMakeFiles/blink_multiple_leds-size.dir
+F:/Programming/C/arduino-basics/blink_multiple_leds/cmake-build-debug-mingw/CMakeFiles/upload.dir
+F:/Programming/C/arduino-basics/blink_multiple_leds/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
