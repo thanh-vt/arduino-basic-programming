@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Programming/C/arduino-basics/faded_led/cmake-build-debug-mingw/faded_led_faded_led.ino.cpp
+Arduino.h
+-
+Arduino.h
+F:/Programming/C/arduino-basics/faded_led/cmake-build-debug-mingw/Arduino.h
+

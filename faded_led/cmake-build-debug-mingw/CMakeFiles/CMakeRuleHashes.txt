@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+a64c8cb68023c2eee4524c0e333128bc CMakeFiles/faded_led-burn
+c44596304c483e22fb18e4474ab325dd CMakeFiles/faded_led-size
+f708aecadad611737c54d47117e3f8b2 CMakeFiles/faded_led-upload
+0f5920700225eecbf4b510247b5eaad2 faded_led_faded_led.ino.cpp
