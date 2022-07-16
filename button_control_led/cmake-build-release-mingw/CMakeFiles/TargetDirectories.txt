@@ -1,0 +1,8 @@
+F:/Programming/C/arduino-basics/button_control_led/cmake-build-release-mingw/CMakeFiles/uno_CORE.dir
+F:/Programming/C/arduino-basics/button_control_led/cmake-build-release-mingw/CMakeFiles/rebuild_cache.dir
+F:/Programming/C/arduino-basics/button_control_led/cmake-build-release-mingw/CMakeFiles/button_control_led-burn.dir
+F:/Programming/C/arduino-basics/button_control_led/cmake-build-release-mingw/CMakeFiles/button_control_led.dir
+F:/Programming/C/arduino-basics/button_control_led/cmake-build-release-mingw/CMakeFiles/button_control_led-upload.dir
+F:/Programming/C/arduino-basics/button_control_led/cmake-build-release-mingw/CMakeFiles/button_control_led-size.dir
+F:/Programming/C/arduino-basics/button_control_led/cmake-build-release-mingw/CMakeFiles/upload.dir
+F:/Programming/C/arduino-basics/button_control_led/cmake-build-release-mingw/CMakeFiles/edit_cache.dir
