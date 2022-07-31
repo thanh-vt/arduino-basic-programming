@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Programming/C/arduino-basics/button_press_count/cmake-build-debug-mingw/button_press_count_button_press_count.ino.cpp
+Arduino.h
+-
+Arduino.h
+F:/Programming/C/arduino-basics/button_press_count/cmake-build-debug-mingw/Arduino.h
+

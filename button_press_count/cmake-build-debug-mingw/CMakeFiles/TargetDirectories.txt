@@ -1,0 +1,8 @@
+F:/Programming/C/arduino-basics/button_press_count/cmake-build-debug-mingw/CMakeFiles/uno_CORE.dir
+F:/Programming/C/arduino-basics/button_press_count/cmake-build-debug-mingw/CMakeFiles/button_press_count-burn.dir
+F:/Programming/C/arduino-basics/button_press_count/cmake-build-debug-mingw/CMakeFiles/button_press_count.dir
+F:/Programming/C/arduino-basics/button_press_count/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
+F:/Programming/C/arduino-basics/button_press_count/cmake-build-debug-mingw/CMakeFiles/button_press_count-upload.dir
+F:/Programming/C/arduino-basics/button_press_count/cmake-build-debug-mingw/CMakeFiles/button_press_count-size.dir
+F:/Programming/C/arduino-basics/button_press_count/cmake-build-debug-mingw/CMakeFiles/upload.dir
+F:/Programming/C/arduino-basics/button_press_count/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
